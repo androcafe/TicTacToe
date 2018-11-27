@@ -1,5 +1,5 @@
 # TicTacToe
-This project consist od tic-tac-toe game developed in android.
+This project consist of tic-tac-toe game developed in android.
 
 <b>Output for following program is as follows :</b>
 <div align="center">
